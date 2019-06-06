@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10293" started-at="2019-06-06T11:42:36Z" finished-at="2019-06-06T11:42:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10293" started-at="2019-06-06T11:42:36Z" finished-at="2019-06-06T11:42:46Z">
+      <class name="org.tests.Tc1">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.tests.Tc1@d5c04e]" name="tc1" duration-ms="10245" started-at="2019-06-06T17:12:36Z" finished-at="2019-06-06T17:12:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- org.tests.Tc1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
