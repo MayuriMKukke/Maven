@@ -8,7 +8,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class Tc1 {
 	WebDriver driver;
-	
+	//comment added to this
 	@Test
 	public void tc1(){
 		WebDriverManager.chromedriver().setup();
